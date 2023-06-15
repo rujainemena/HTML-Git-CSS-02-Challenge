@@ -2,12 +2,8 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The codebase has been updated to meet accessibility standards to optimize the site for search engines. 
+The code now contains semantic elements, accessible attributes, and the site contains a concise title. 
 
 ## Table of Contents (Optional)
 
@@ -28,11 +24,8 @@ To use, click this link:
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+My classmates were all amazing contributors. Specifically:
+Jovanni Bogardus, Lourdes Dorvilus, Annie Sosa, Allan Santiago, Mia Olmedillo, Lissette Garcia
 
 ## License
 
@@ -42,12 +35,12 @@ MIT License
 
 ## Features
 
-If your project has a lot of features, list them here.
+N/A
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+N/A
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Using VS Code. Reviewed HTML code on Default Browser.
