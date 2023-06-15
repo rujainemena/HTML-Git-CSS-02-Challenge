@@ -21,6 +21,7 @@ N/A
 ## Usage
 
 To use, click this link:
+<img src = "./assets/images/horiseon.png">
 
 ## Credits
 
