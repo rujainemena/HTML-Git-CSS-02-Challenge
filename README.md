@@ -20,7 +20,7 @@ N/A
 
 ## Usage
 
-To use, click this link:
+To use, click this link: https://rujainemena.github.io/HTML-Git-CSS-02-Challenge/
 <img src = "./assets/images/horiseon.png">
 
 ## Credits
